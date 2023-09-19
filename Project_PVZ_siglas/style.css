@@ -1,0 +1,94 @@
+.navbar {
+  background-color: #11114e;
+}
+
+.links-father{
+  justify-content: space-between;
+}
+
+.links1{
+  justify-content:flex-start;
+}
+
+.links2{
+  justify-content: flex-end;
+}
+
+.nav-item{
+  margin: auto;
+}
+
+.nav-link {
+  color: #daa520;
+  text-decoration: none;
+  font-size: 32px;
+}
+
+.navbar-brand {
+  color: #daa520;
+  text-decoration: none;
+}
+
+
+.navbar-brand {
+  font-size: 50px; 
+}
+
+.container-logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  flex: 1;
+  position: relative;
+  background-color: #11114e;
+}
+
+.card {
+  margin: 0;
+  padding: 0;
+  position: relative;
+  background: #fff;
+  margin-top: 10rem;
+  display: flex;
+  justify-content: center;
+  align-items: flex;
+}
+
+.img {
+  width: 12rem;
+  height: 12rem;
+  border-radius: 50%;
+  position: absolute;
+  top: -2rem;
+  border: 20px solid #11114e;
+}
+
+.icon {
+  width: 9rem;
+  height: 9rem;
+  background: #11114e;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-bottom-right-radius: 50%;
+  border-bottom-left-radius: 50%;
+  position: absolute;
+  top: -rem;
+}
+
+.container {
+  margin-top: 150px;
+}
+
+footer{
+  background-color: #11114e;
+  color: #daa520;
+  text-decoration: none;
+}
+
+.footer-text{
+  background-color: #11114e;
+  color: #daa520;
+  text-decoration: none;
+}
